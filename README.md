@@ -2,7 +2,7 @@
 
 This is the place where i store my source code🗃️
 <ul>
-    <li>🔭I'm currently working on Devops projects</li>
+    <li>🔭I'm currently working on BackEnd-Dev projects</li>
     <li>🌿I'm currently learning Kubernetes and Ansible</li>
     <li>I💖🐈s</li>
     <li>📫How to reach me: </li>
