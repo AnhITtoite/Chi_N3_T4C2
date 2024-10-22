@@ -12,7 +12,7 @@ This is the place where i store my source code🗃️
 </ul>
 
 <div>
-    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical" />
+    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=AnhITtoite&show_icons=true&theme=radical" />
     <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleeforezz&layout=compact&theme=nightowl" />
 </div>
 <br></br>
@@ -25,13 +25,13 @@ This is the place where i store my source code🗃️
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 623.0 kB Used in GitHub's Storage 
+> 📦 3.0 kB Used in GitHub's Storage 
  > 
-> 🏆 385 Contributions in the Year 2024
+> 🏆 38 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 2 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
