@@ -25,7 +25,7 @@ This is the place where i store my source code🗃️
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 3.0 kB Used in GitHub's Storage 
+> 📦 53.0 kB Used in GitHub's Storage 
  > 
 > 🏆 38 Contributions in the Year 2024
  > 
